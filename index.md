@@ -1,4 +1,4 @@
-<font face="黑体" size=36> <center> 基本信息 </center> </font>
+<center> 基本信息 </center> 
 ### 姓名: 王欣
 ### 民族：汉 
 ### 出生年月 : 1994.10
