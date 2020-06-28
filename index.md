@@ -7,6 +7,9 @@
 ### 学历 ：硕士研究生
 ### 手机：18260712928 
 ### 邮箱：devilw941018@gmail.com
+
+<center> 技能和领域 </center>
+
 <center> 教育经历及实习经历 </center>  
 ### 2018.9--2021.6 江苏师范大学机电工程学院 机械工程
 ### 2014.9--2018.6 江苏师范大学科文学院机电工程系 电气工程及其自动化
@@ -24,4 +27,4 @@
 ### 2017.3  维修电工三级 通过
 
 <center> 论文列表 </center>
-### X. Wang, W. Liu and M. Shan, "Fault Diagnosis Analysis of Wind Turbine Gear Based on Transfer Function Model," 2019 Prognostics and System Health Management Conference (PHM-Qingdao), Qingdao, China, 2019, pp. 1-5, doi: 10.1109/PHM-Qingdao46334.2019.8942984.
+### X.Wang, W.Liu and M.Shan,"Fault Diagnosis Analysis of Wind Turbine Gear Based on Transfer Function Model,"2019 Prognostics and System Health Management Conference(PHM-Qingdao),Qingdao,China,2019,pp.1-5,doi:10.1109/PHM-Qingdao46334.2019.8942984.
