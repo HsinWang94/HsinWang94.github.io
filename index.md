@@ -23,3 +23,8 @@
 ### 2015.12 英语四级考试 461 通过
 ### 2017.3  维修电工三级 通过
 
+<center> 论文列表 </center>
+1. X. Wang, W. Liu and M. Shan, "Fault Diagnosis Analysis of Wind Turbine Gear Based on Transfer Function Model," 2019 Prognostics and System Health Management Conference (PHM-Qingdao), Qingdao, China, 2019, pp. 1-5, doi: 10.1109/PHM-Qingdao46334.2019.8942984.
+Abstract: In this paper, wind turbine fault state and normal working conditions, using the classical transfer function model in Control theory, are characterized by the external fault of the whole system. Considering the internal impact with each other in the whole wind turbine power system, main idea of the paper tries to explore whether the final impact of the fault signal on the system can be quantified.
+keywords: {fault diagnosis;gears;signal processing;transfer functions;wind turbines;fault diagnosis analysis;wind turbine gear;transfer function model;control theory;wind turbine power system;fault signal;Fault Diagnosis;Transfer Function;Gear;Wind Turbine}
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8942984&isnumber=8942805
