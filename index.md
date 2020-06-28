@@ -9,6 +9,11 @@
 ### 邮箱：devilw941018@gmail.com
 
 <center> 技能和领域 </center>
+### 主要研究领域：机器学习，深度学习，信号处理，神经网络，机械故障诊断，控制理论，最优化计算
+### 主要的使用计算机语言：M（Matlab），S-function（Simulink）,C/C++,Julia,Python,shell 脚本
+### 感兴趣领域：科学计算，语言构造，计算库实现，（数字设计）
+### 意向职位; 系统控制工程师，自动化运维,(数据结构设计/算法分析与工程实现)
+### 长期参与公共代码编写 2013----，长期参与公共话题编辑与讨论 2007----
 
 <center> 教育经历及实习经历 </center>  
 ### 2018.9--2021.6 江苏师范大学机电工程学院 机械工程
@@ -27,4 +32,5 @@
 ### 2017.3  维修电工三级 通过
 
 <center> 论文列表 </center>
-### X.Wang, W.Liu and M.Shan,"Fault Diagnosis Analysis of Wind Turbine Gear Based on Transfer Function Model,"2019 Prognostics and System Health Management Conference(PHM-Qingdao),Qingdao,China,2019,pp.1-5,doi:10.1109/PHM-Qingdao46334.2019.8942984.
+#### X.Wang, W.Liu and M.Shan,"Fault Diagnosis Analysis of Wind Turbine Gear Based on Transfer Function Model,"2019 Prognostics and System Health Management Conference(PHM-Qingdao),Qingdao,China,2019,pp.1-5,doi:10.1109/PHM-Qingdao46334.2019.8942984.
+
