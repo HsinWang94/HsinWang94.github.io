@@ -11,10 +11,14 @@
 #### 邮箱：devilw941018@gmail.com
 
 <center> Wechat Code </center> 
+<div align="center" >
 <img src="wxqrcode.png" width="35%">
-<center> QQ Code </center> 
-<img src="qqqrcode.jpg" width="35%">
+</div>
 
+<center> QQ Code </center> 
+<div align="center" >
+<img src="qqqrcode.jpg" width="35%">
+</div>
 <center> 技能和领域 </center>
 
 #### 主要研究领域：机器学习，深度学习，信号处理，神经网络，机械故障诊断，控制理论，最优化计算
