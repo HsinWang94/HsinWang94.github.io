@@ -12,12 +12,12 @@
 
 <center> Wechat Code </center> 
 <div align="center" >
-<img src="wxqrcode.png" width="35%">
+    <img src="wxqrcode.png" width="35%">
 </div>
 
 <center> QQ Code </center> 
 <div align="center" >
-<img src="qqqrcode.jpg" width="35%">
+    <img src="qqqrcode.jpg" width="35%">
 </div>
 <center> 技能和领域 </center>
 
