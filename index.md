@@ -11,9 +11,9 @@
 #### 邮箱：devilw941018@gmail.com
 
 <center> Wechat Code </center> 
-<img src="wxqrcode.png" width="100%">
+<img src="wxqrcode.png" width="35%">
 <center> QQ Code </center> 
-<img src="qqqrcode.jpg" width="100%">
+<img src="qqqrcode.jpg" width="35%">
 
 <center> 技能和领域 </center>
 
