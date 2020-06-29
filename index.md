@@ -10,6 +10,10 @@
 #### 手机：18260712928 
 #### 邮箱：devilw941018@gmail.com
 
+<center> Wechat Code </center> 
+<img src="wxqrcode.png" width="100%">
+<center> QQ Code </center> 
+<img src="qqqrcode.jpg" width="100%">
 
 <center> 技能和领域 </center>
 
