@@ -1,3 +1,8 @@
+<center> IDpicture </center> 
+<div align="center" >
+    <img src="IDpicture.jpg" width="35%">
+</div>
+
 
 <center> 基本信息 </center> 
 
@@ -9,6 +14,8 @@
 #### 学历 ：硕士研究生
 #### 手机：18260712928 
 #### 邮箱：devilw941018@gmail.com
+
+
 
 <center> Wechat Code </center> 
 <div align="center" >
