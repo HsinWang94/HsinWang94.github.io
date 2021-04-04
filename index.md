@@ -19,23 +19,23 @@
 <div align="center" >
     <img src="qqqrcode.jpg" width="35%">
 </div>
+
 <center> 技能和领域 </center>
 
 #### 主要研究领域：机器学习，深度学习，信号处理，神经网络，机械故障诊断，控制理论，最优化计算
 #### 主要的使用计算机语言：M（Matlab），S-function（Simulink）,C/C++,Julia,Python,shell 脚本
 #### 感兴趣领域：科学计算，语言构造，计算库实现，（数字设计）
 #### 意向职位; 系统控制工程师，自动化运维,(数据结构设计/算法分析与工程实现)
-#### 长期参与公共代码编写 2013----，长期参与公共话题编辑与讨论 2007----
-
 
 <center> 教育经历及实习经历 </center> 
 
 #### 2018.9--2021.6 江苏师范大学机电工程学院 机械工程
 #### 2014.9--2018.6 江苏师范大学科文学院机电工程系 电气工程及其自动化
 #### 2018.9--2019.1 文都教育兼职代课老师
-#### 2015 -- 2018  海云集团GPU销售咨询
+#### 2015.1--2018.12  海云集团GPU销售咨询
 #### 2018.4--2018.5 昆山德鹏电子实习一周
-
+#### 2020.9--2020.12 江苏师范大学机电工程学院助教
+#### 2019.9--2020.6 机电工程学院院研究生会主席
 
 <center> 证书列表 </center>
 
@@ -50,6 +50,18 @@
 
 <center> 论文列表 </center>
 
-#### X.Wang, W.Liu and M.Shan,"Fault Diagnosis Analysis of Wind Turbine Gear Based on Transfer Function Model,"2019 Prognostics and System Health Management Conference(PHM-Qingdao),Qingdao,China,2019,pp.1-5,doi:10.1109/PHM-Qingdao46334.2019.8942984.
+#### Xin Wang,Wenyi Liu,MengChen Shan. Fault Diagnosis Analysis of Wind Turbine Gear Based on Transfer Function Model[C]. 2019 Prognositics and System Health Management Conference.(EI 检索: 20200408061025)
+#### X. Wang,W.Y.Liu. A novel wind turbine fault diagnosis method based on generator currentanalysis[J]. Journal of Vibroengineering. (EI 检索: 20210309788780)
+#### Xin Wang,Wenyi Liu. Wind Turbine Single Gear-tooth Fault Diagnosis based on Multi-networks combinatorial optimization (在投)
+#### Xin Wang,Wenyi Liu. HGSHRS：A novel hyperparameter search algorithm and its application on wind turbine planetary gear fault diagnosis (在投)
+#### Shan M, Liu W, Wang X, et al. A novel Robot Joint Bearing fault diagnosis method based on VMD in BP neural network[C]. International conference on ubiquitous robots and ambient intelligence, 2019: 760-764.(EI 检索: 20193307314020)
+#### He Ren, Wenyi Liu, Mengchen Shan, Xin Wang. A new wind turbine health condition monitoring method based on VMD-MPE and feature-based transfer learning[J]. Measurement, 2019, 148.(SCI 检索: 000487930000022)
 
+<center> 联系方式 </center>
 
+#### QQ: 497566149
+#### 微信: 18260712928
+#### 知乎: LuciferWang https://www.zhihu.com/people/devilw-94-10-18
+#### B 站: HsinXWang https://space.bilibili.com/13227261
+#### GitHub: X.wang@earth https://github.com/HsinWang94
+#### Google: Xin Wang devilw941018@gmail.com
