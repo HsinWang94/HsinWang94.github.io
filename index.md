@@ -2,7 +2,7 @@
     <img src="IDpicture.jpg" width="35%">
 </div>
 
-# 基本信息 
+## 基本信息 
 
 * 姓名: 王欣 <a
     id="cy-effective-orcid-url"
@@ -11,10 +11,6 @@
      target="orcid.widget"
      rel="me noopener noreferrer"
      style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
       https://orcid.org/0000-0002-7524-2587
     </a>
 * 民族：汉 
@@ -26,14 +22,14 @@
 * 邮箱：devilw941018@gmail.com
 
 
-# 技能和领域 
+## 技能和领域 
 
 * 主要研究领域：机器学习，深度学习，信号处理，神经网络，机械故障诊断，控制理论，最优化计算
 * 主要的使用计算机语言：M(Matlab)，S-function(Simulink), C/C++, Julia, Python, shell
 * 感兴趣领域：科学计算，语言构造，计算库实现，数字设计
 * 意向职位: 数据结构设计/算法分析与工程实现/模式识别/深度学习/机械故障诊断
 
-# 教育经历及实习经历 
+## 教育经历及实习经历 
 
 * 2018.9--2021.6 江苏师范大学机电工程学院 机械工程
 * 2014.9--2018.6 江苏师范大学科文学院机电工程系 电气工程及其自动化
@@ -45,7 +41,7 @@
 * 2021.6--2022.3 WeirESCO(Xuzhou) Wearparts 设备工程师
 * 2022.3--至今  苏州畅恒通信科技有限公司 算法工程师
 
-# 证书列表 
+## 证书列表 
 
 * 2014.11 CRE科技协会多媒体制作大赛 一等奖
 * 2015-2016 三等优秀学生奖学金
@@ -56,7 +52,7 @@
 * 2017.3  维修电工三级 通过
 
 
-# 论文列表 
+## 论文列表 
 
 1. Wang Xin. Research on wind turbine gearbox fault diagnosis with deep transfer learning method. Zenodo. 2022.
 2. W.Y.Liu, X.Wang, Y.Zhang and H.Gu. A novel wind turbine fault diagnosis method based on generator current analysis. Journal of Vibroengineering. 2020.
@@ -66,7 +62,7 @@
 6. He Ren, Wenyi Liu, Mengchen Shan, Xin Wang and Zhengfeng Wang. A novel wind turbine health condition monitoring method based on composite variational mode entropy and weighted distribution adaptation. Renewable Energy. 2021.
 7. Yan Zhang, Wenyi Liu, Xin Wang and Mirza Ali Shaheer. A novel hierarchical hyper-parameter search algorithm based on greedy strategy for wind turbine fault diagnosis. Expert Systems with Applications. 2022.
 
-# 联系方式 
+## 联系方式 
 
 *  QQ: 497566149
 *  微信: 18260712928
