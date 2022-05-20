@@ -1,4 +1,4 @@
-<center> IDpicture </center> 
+
 <div align="center" >
     <img src="IDpicture.jpg" width="35%">
 </div>
