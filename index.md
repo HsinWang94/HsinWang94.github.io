@@ -1,8 +1,17 @@
-
 <div align="center" >
     <img src="IDpicture.jpg" width="35%">
 </div>
 
+# 基本信息 
+
+* 姓名: 王欣
+* 民族：汉 
+* 出生年月 : 1994.10
+* 身高：172cm 
+* 毕业院校：江苏师范大学 
+* 学历 ：硕士研究生
+* 手机：18260712928 
+* 邮箱：devilw941018@gmail.com
    <a
     id="cy-effective-orcid-url"
     class="underline"
@@ -16,18 +25,6 @@
         alt="ORCID iD icon"/>
       https://orcid.org/0000-0002-7524-2587
     </a>
-
-# 基本信息 
-
-* 姓名: 王欣
-* 民族：汉 
-* 出生年月 : 1994.10
-* 身高：172cm 
-* 毕业院校：江苏师范大学 
-* 学历 ：硕士研究生
-* 手机：18260712928 
-* 邮箱：devilw941018@gmail.com
-
 
 # 技能和领域 
 
