@@ -16,17 +16,6 @@
 #### 邮箱：devilw941018@gmail.com
 
 
-
-<center> Wechat Code </center> 
-<div align="center" >
-    <img src="wxqrcode.png" width="35%">
-</div>
-
-<center> QQ Code </center> 
-<div align="center" >
-    <img src="qqqrcode.jpg" width="35%">
-</div>
-
 <center> 技能和领域 </center>
 
 #### 主要研究领域：机器学习，深度学习，信号处理，神经网络，机械故障诊断，控制理论，最优化计算
@@ -43,7 +32,7 @@
 #### 2018.4--2018.5 昆山德鹏电子实习一周
 #### 2020.9--2020.12 江苏师范大学机电工程学院助教
 #### 2019.9--2020.6 机电工程学院院研究生会主席
-#### 2021.6--至今  WeirESCO(Xuzhou) Wearparts 设备工程师
+#### 2021.6--2022.3  WeirESCO(Xuzhou) Wearparts 设备工程师
 
 <center> 证书列表 </center>
 
