@@ -19,7 +19,7 @@
 # 技能和领域 
 
 * 主要研究领域：机器学习，深度学习，信号处理，神经网络，机械故障诊断，控制理论，最优化计算
-* 主要的使用计算机语言：M（Matlab），S-function（Simulink）,C/C++,Julia,Python,shell
+* 主要的使用计算机语言：M(Matlab)，S-function(Simulink), C/C++, Julia, Python, shell
 * 感兴趣领域：科学计算，语言构造，计算库实现，数字设计
 * 意向职位: 数据结构设计/算法分析与工程实现/模式识别/深度学习/机械故障诊断
 
