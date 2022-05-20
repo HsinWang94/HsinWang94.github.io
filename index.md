@@ -32,8 +32,8 @@
 #### 2018.4--2018.5 昆山德鹏电子实习一周
 #### 2020.9--2020.12 江苏师范大学机电工程学院助教
 #### 2019.9--2020.6 机电工程学院院研究生会主席
-#### 2021.6--2022.3  WeirESCO(Xuzhou) Wearparts 设备工程师
-
+#### 2021.6--2022.3 WeirESCO(Xuzhou) Wearparts 设备工程师
+#### 2022.3--至今  苏州畅恒通信科技有限公司 算法工程师
 <center> 证书列表 </center>
 
 #### 2014.11 CRE科技协会多媒体制作大赛 一等奖
@@ -47,12 +47,13 @@
 
 <center> 论文列表 </center>
 
-#### Xin Wang,Wenyi Liu,MengChen Shan. Fault Diagnosis Analysis of Wind Turbine Gear Based on Transfer Function Model[C]. 2019 Prognositics and System Health Management Conference.(EI 检索: 20200408061025)
-#### X. Wang,W.Y.Liu. A novel wind turbine fault diagnosis method based on generator currentanalysis[J]. Journal of Vibroengineering. (EI 检索: 20210309788780)
-#### Xin Wang,Wenyi Liu. Wind Turbine Single Gear-tooth Fault Diagnosis based on Multi-networks combinatorial optimization (在投)
-#### Xin Wang,Wenyi Liu. HGSHRS：A novel hyperparameter search algorithm and its application on wind turbine planetary gear fault diagnosis (在投)
-#### Shan M, Liu W, Wang X, et al. A novel Robot Joint Bearing fault diagnosis method based on VMD in BP neural network[C]. International conference on ubiquitous robots and ambient intelligence, 2019: 760-764.(EI 检索: 20193307314020)
-#### He Ren, Wenyi Liu, Mengchen Shan, Xin Wang. A new wind turbine health condition monitoring method based on VMD-MPE and feature-based transfer learning[J]. Measurement, 2019, 148.(SCI 检索: 000487930000022)
+#### Wang Xin. Research on wind turbine gearbox fault diagnosis with deep transfer learning method. Zenodo. 2022.
+#### W.Y.Liu, X.Wang, Y.Zhang and H.Gu. A novel wind turbine fault diagnosis method based on generator current analysis. Journal of Vibroengineering. 2020.
+#### X.Wang，W.Liu and M.Shan. Fault Diagnosis Analysis of Wind Turbine Gear Based on Transfer Function Model. 2019 Prognostics and System Health Management Conference (PHM-Qingdao). 2019.
+#### Mengchen Shan, Wenyi Liu and Xin Wang. A novel Robot Joint Bearing fault diagnosis method based on VMD in BP neural network. 2019 16th International Conference on Ubiquitous Robots UR. 2019.
+#### He Ren, Wenyi Liu, Mengchen Shan and Xin Wang. A new wind turbine health condition monitoring method based on VMD-MPE and feature-based transfer learning. Measurement. 2019.
+#### He Ren, Wenyi Liu, Mengchen Shan, Xin Wang and Zhengfeng Wang. A novel wind turbine health condition monitoring method based on composite variational mode entropy and weighted distribution adaptation. Renewable Energy. 2021.
+#### Yan Zhang, Wenyi Liu, Xin Wang and Mirza Ali Shaheer. A novel hierarchical hyper-parameter search algorithm based on greedy strategy for wind turbine fault diagnosis. Expert Systems with Applications. 2022.
 
 <center> 联系方式 </center>
 
