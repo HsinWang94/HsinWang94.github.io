@@ -68,5 +68,6 @@
 *  微信: 18260712928
 *  知乎: LuciferWang https://www.zhihu.com/people/devilw-94-10-18
 *  B 站: HsinXWang https://space.bilibili.com/13227261
-*  GitHub: X.wang@earth https://github.com/HsinWang94
+*  GitHub: VenomWang https://github.com/HsinWang94
 *  Google: Xin Wang devilw941018@gmail.com
+*  ResearchGate: https://www.researchgate.net/profile/Xin-Wang-709
