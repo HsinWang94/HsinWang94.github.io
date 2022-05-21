@@ -19,7 +19,7 @@
 * 毕业院校：江苏师范大学 
 * 学历 ：硕士研究生
 * 手机：18260712928 
-* 邮箱：devilw941018@gmail.com
+* 邮箱：<wangxin94xz@outlook.com>
 
 
 ## 技能和领域 
@@ -66,8 +66,8 @@
 
 *  QQ: 497566149
 *  微信: 18260712928
-*  知乎: LuciferWang https://www.zhihu.com/people/devilw-94-10-18
-*  B 站: HsinXWang https://space.bilibili.com/13227261
-*  GitHub: VenomWang https://github.com/HsinWang94
-*  Google: Xin Wang devilw941018@gmail.com
-*  ResearchGate: https://www.researchgate.net/profile/Xin-Wang-709
+*  知乎: LuciferWang <https://www.zhihu.com/people/devilw-94-10-18>
+*  B 站: HsinXWang <https://space.bilibili.com/13227261>
+*  GitHub: VenomWang <https://github.com/HsinWang94>
+*  Google: Xin Wang <devilw941018@gmail.com>
+*  ResearchGate: <https://www.researchgate.net/profile/Xin-Wang-709>
