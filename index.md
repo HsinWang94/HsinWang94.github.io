@@ -29,7 +29,7 @@
 * 感兴趣领域：科学计算，语言构造，计算库实现，数字设计
 * 意向职位: 数据结构设计/算法分析与工程实现/模式识别/深度学习/机械故障诊断
 
-## 教育经历及实习经历 
+## 教育及工作经历 
 
 * 2018.9--2021.6 江苏师范大学机电工程学院 机械工程
 * 2014.9--2018.6 江苏师范大学科文学院机电工程系 电气工程及其自动化
@@ -55,7 +55,7 @@
 ## 论文列表 
 
 1. Wang Xin. Research on wind turbine gearbox fault diagnosis with deep transfer learning method. Zenodo. 2022.
-2. W.Y.Liu, X.Wang, Y.Zhang and H.Gu. A novel wind turbine fault diagnosis method based on generator current analysis. Journal of Vibroengineering. 2020.
+2. X.Wang, W.Y.Liu, Y.Zhang and H.Gu. A novel wind turbine fault diagnosis method based on generator current analysis. Journal of Vibroengineering. 2020.
 3. X.Wang，W.Liu and M.Shan. Fault Diagnosis Analysis of Wind Turbine Gear Based on Transfer Function Model. 2019 Prognostics and System Health Management Conference (PHM-Qingdao). 2019.
 4. Mengchen Shan, Wenyi Liu and Xin Wang. A novel Robot Joint Bearing fault diagnosis method based on VMD in BP neural network. 2019 16th International Conference on Ubiquitous Robots UR. 2019.
 5. He Ren, Wenyi Liu, Mengchen Shan and Xin Wang. A new wind turbine health condition monitoring method based on VMD-MPE and feature-based transfer learning. Measurement. 2019.
