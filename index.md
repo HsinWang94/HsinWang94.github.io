@@ -1,8 +1,9 @@
+[toc]
 <div align="center" >
     <img src="IDpicture.jpg" width="35%">
 </div>
 
-[toc]
+
 ## 基本信息 
 
 * 姓名: 王欣 <a
