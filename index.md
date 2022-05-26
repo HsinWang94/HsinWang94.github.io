@@ -1,7 +1,4 @@
 [toc]
-<div align="center" >
-    <img src="IDpicture.jpg" width="35%">
-</div>
 
 
 ## 基本信息 
