@@ -57,6 +57,7 @@
 5. He Ren, Wenyi Liu, Mengchen Shan and Xin Wang. A new wind turbine health condition monitoring method based on VMD-MPE and feature-based transfer learning. Measurement. 2019.
 6. He Ren, Wenyi Liu, Mengchen Shan, Xin Wang and Zhengfeng Wang. A novel wind turbine health condition monitoring method based on composite variational mode entropy and weighted distribution adaptation. Renewable Energy. 2021.
 7. Yan Zhang, Wenyi Liu, Xin Wang and Mirza Ali Shaheer. A novel hierarchical hyper-parameter search algorithm based on greedy strategy for wind turbine fault diagnosis. Expert Systems with Applications. 2022.
+8. Yan Zhang, Wenyi Liu, Xin Wang and Heng Gu. A novel wind turbine fault diagnosis method based on compressed sensing and DTL-CNN. Renewable Energy. 2022.
 
 ## 联系方式 
 
