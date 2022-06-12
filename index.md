@@ -50,7 +50,7 @@
 
 ## 论文列表 
 
-1. *Wang Xin *. Research on wind turbine gearbox fault diagnosis with deep transfer learning method. Zenodo. 2022.
+1. *Wang Xin*. Research on wind turbine gearbox fault diagnosis with deep transfer learning method. Zenodo. 2022.
 2. *X.Wang*, W.Y.Liu, Y.Zhang and H.Gu. A novel wind turbine fault diagnosis method based on generator current analysis. Journal of Vibroengineering. 2020.
 3. *X.Wang*，W.Liu and M.Shan. Fault Diagnosis Analysis of Wind Turbine Gear Based on Transfer Function Model. 2019 Prognostics and System Health Management Conference (PHM-Qingdao). 2019.
 4. Mengchen Shan, Wenyi Liu and *Xin Wang*. A novel Robot Joint Bearing fault diagnosis method based on VMD in BP neural network. 2019 16th International Conference on Ubiquitous Robots UR. 2019.
