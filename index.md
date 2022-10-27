@@ -82,7 +82,7 @@ Working  Experience
 * 2022.3--2022.6 Suzhou Changheng Communication Technology, 
  Algorithm Engineer, For 3 months
 
-证书列表
+Qualifications
 -------
 
 * 2014.11 CRE Technology Association Multimedia Production Competition, Meritorious Winner
