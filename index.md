@@ -1,4 +1,15 @@
+Basic Information
+-----------------
 
+* Name : *WangXIn*
+* Ethnicity：*Han*
+* Birth Date : *October 18th,1994*
+* Height ：*172cm*
+* Weight : *62Kg*
+* Graduate School：*Jiangsu Normal University*
+* Degree ：*Master in Engineering*
+* MobilePhone：*86-18260712928*
+* Email：*<wangxin94xz@outlook.com>*
 
 ReserchID: 
  <a
@@ -14,20 +25,7 @@ ReserchID:
       alt="ORCID iD icon"/>
      https://orcid.org/0000-0002-7524-2587
   </a>
-
-Basic Information
------------------
-
-* Name : *WangXIn*
-* Ethnicity：*Han*
-* Birth Date : *October 18th,1994*
-* Height ：*172cm*
-* Weight : *62Kg*
-* Graduate School：*Jiangsu Normal University*
-* Degree ：*Master in Engineering*
-* MobilePhone：*86-18260712928*
-* Email：*<wangxin94xz@outlook.com>*
-
+  
 Current Status
 ------------------
 
@@ -37,7 +35,7 @@ Current Status
 * 💬 Ask me about Anything I Know.
 * 📫 How to reach me: Email: wangxin94xz@outlook 
 
-Skills and Academic field
+Skills and Academic Field
 -------------------------
 
 * Researching Field:*Machine Learning,Deep Learning,Neural Networks,Mechanical Fault Diagnosis,Control Theory,Optimization Theory*
@@ -49,7 +47,7 @@ Programming Language
 
 *MatLab; C/C++; Julia; Python; Shell; SQL;*
 
-Research interests
+Research Interests
 -----------------
 
 *Neural Networks; Artificial Intelligence; Data Mining and Knowledge Discovery; Computational Intelligence; Image Processing; Advanced Machine Learning; High Performance Computing; Signal Processing; Software Design; Pattern Recognition;*
@@ -73,7 +71,7 @@ Education Background
 * 2018.9--2021.6 Master (School of Mechatronic Engineering) Jiangsu Normal University
 * 2014.9--2018.6 Bachelor (Mechanical and Electrical Engineering) Jiangsu Normal University Kewen College
 
-Working  Experience
+Working Experience
 --------------
 
 * 2020.9--2020.12 School of Mechatronic Engineering-Jiangsu Normal University, Research Assistant, For 4 months
