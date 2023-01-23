@@ -1,7 +1,14 @@
 
+<<<<<<< HEAD
 <center>
   <img src= MediaPIC/IDpicture.jpg height=131.2 width=87.6 />
 </center>
+=======
+
+<div align="center">
+  <img src= “MediaPIC\IDpicture.jpg” height=131.2 width=87.6 />
+</div>
+>>>>>>> 29b2a1bc52348f42e8f2627623f156077eb5bc04
 
 <center>
   <b>ID Photo for WANGXIN</b>
