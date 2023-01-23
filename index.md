@@ -1,18 +1,30 @@
+This is a resume for WANGXIN.
+-----------------------------------
+
+
+<center>
+<img src="MediaPIC\IDpicture.jpg" alt="alt text" height=131.2 width=87.6>
+</center>
+
+<center>
+<b>ID Photo for WANGXIN</b>
+
+<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=QTYgLyY5KC8eOTQ7KS40cHh4dQEnLjksICgtbyIuLA" style="text-decoration:none;">Email to QQ Mailbox</a>
+</center>
+
 Basic Information
 -----------------
 
-* Name : *WangXIn*
-* Ethnicity：*Han*
+* Name : **WangXIn**
 * Birth Date : *October 18th,1994*
 * Height ：*172cm*
 * Weight : *62Kg*
 * Graduate School：*Jiangsu Normal University*
-* Degree ：*Master in Engineering*
+* Degree ：**Master in Engineering**
 * MobilePhone：*86-18260712928*
 * Email：*<wangxin94xz@outlook.com>*
 
-ReserchID: 
- <a
+<a
     id="cy-effective-orcid-url"
     class="underline"
     href="https://orcid.org/0000-0002-7524-2587"
@@ -25,7 +37,7 @@ ReserchID:
       alt="ORCID iD icon"/>
      https://orcid.org/0000-0002-7524-2587
   </a>
-  
+
 Current Status
 ------------------
 
@@ -91,7 +103,7 @@ Qualifications
 Contact Me
 --------------
 
-* ZhiHu:LuciferWang <https://www.zhihu.com/people/devilw-94-10-18>
-* Bilibili:HsinXWang <https://space.bilibili.com/13227261>
-* GitHub:VenomWang <https://github.com/HsinWang94>  
-* Google Scholar:Xin Wang <https://scholar.google.com/citations?user=JUVOqEUAAAAJ>
+* ZhiHu: LuciferWang <https://www.zhihu.com/people/devilw-94-10-18>
+* Bilibili: HsinXWang <https://space.bilibili.com/13227261>
+* GitHub: WANGXIN <https://github.com/HsinWang94> 
+* Google Scholar: Xin Wang <https://scholar.google.com/citations?user=JUVOqEUAAAAJ>
