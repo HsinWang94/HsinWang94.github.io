@@ -1,6 +1,3 @@
-<head>
-  <title>About-WANGXIN</title>
-</head>
 Basic Information
 -----------------
 
@@ -36,7 +33,7 @@ Current Status
 * 🌱 I’m currently learning MATLAB,C/C++,Julia and FPGA.
 * 👯 I’m looking to collaborate on Earth.
 * 💬 Ask me about Anything I Know.
-* 📫 How to reach me: Email: wangxin94xz@outlook 
+* 📫 How to reach me: Email: wangxin94xz@outlook
 
 Skills and Academic Field
 -------------------------
@@ -59,7 +56,6 @@ Researching Paper
 -----------
 
 * *Wang Xin*. Research on wind turbine gearbox fault diagnosis with deep transfer learning method. Zenodo. 2022.
-
 * *X.Wang*, W.Y.Liu, Y.Zhang and H.Gu. A novel wind turbine fault diagnosis method based on generator current analysis. Journal of Vibroengineering. 2020.
 * *X.Wang*，W.Liu and M.Shan. Fault Diagnosis Analysis of Wind Turbine Gear Based on Transfer Function Model. 2019 Prognostics and System Health Management Conference (PHM-Qingdao). 2019.
 * Mengchen Shan, Wenyi Liu and *Xin Wang*. A novel Robot Joint Bearing fault diagnosis method based on VMD in BP neural network. 2019 16th International Conference on Ubiquitous Robots UR. 2019.
@@ -80,8 +76,7 @@ Working Experience
 * 2020.9--2020.12 School of Mechatronic Engineering-Jiangsu Normal University, Research Assistant, For 4 months
 * 2019.9--2020.6 School of Mechatronic Engineering-Jiangsu Normal University,Chairman-Graduate Students Union, For 12 months
 * 2021.6--2022.3 WeirESCO(Xuzhou) Wearparts, Equipment Engineer, For 9 months
-* 2022.3--2022.6 Suzhou Changheng Communication Technology, 
- Algorithm Engineer, For 3 months
+* 2022.3--2022.6 Suzhou Changheng Communication Technology, Algorithm Engineer, For 3 months
 
 Qualifications
 -------
@@ -96,8 +91,6 @@ Qualifications
 Contact Me
 --------------
 
-* QQ:497566149
-* Wechat:18260712928
 * ZhiHu:LuciferWang <https://www.zhihu.com/people/devilw-94-10-18>
 * Bilibili:HsinXWang <https://space.bilibili.com/13227261>
 * GitHub:VenomWang <https://github.com/HsinWang94>  
