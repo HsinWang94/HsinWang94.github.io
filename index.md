@@ -1,6 +1,3 @@
-This is a resume for WANGXIN.
------------------------------------
-
 
 
 <div align="center">
