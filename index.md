@@ -5,7 +5,7 @@ This is a resume for WANGXIN.
 
 <div>
   <center>
-    <img border="0" src="MediaPIC\IDpicture.jpg" alt="alt text" height=131.2 width=87.6>
+    <img border="0" src="MediaPIC\IDpicture.jpg" alt="alt text" height=131.2 width=87.6 />
   </center>
 
   <center>
