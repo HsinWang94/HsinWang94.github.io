@@ -1,8 +1,7 @@
 
-
-<div align="center">
-  <img src= MediaPIC\IDpicture.jpg height=131.2 width=87.6 />
-</div>
+<center>
+  <img src= MediaPIC/IDpicture.jpg height=131.2 width=87.6 />
+</center>
 
 <center>
   <b>ID Photo for WANGXIN</b>
