@@ -2,15 +2,22 @@ This is a resume for WANGXIN.
 -----------------------------------
 
 
-<center>
-<img src="MediaPIC\IDpicture.jpg" alt="alt text" height=131.2 width=87.6>
-</center>
 
-<center>
-<b>ID Photo for WANGXIN</b>
+<div>
+  <center>
+    <img border="0" src="MediaPIC\IDpicture.jpg" alt="alt text" height=131.2 width=87.6>
+  </center>
 
-<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=QTYgLyY5KC8eOTQ7KS40cHh4dQEnLjksICgtbyIuLA" style="text-decoration:none;">Email to QQ Mailbox</a>
-</center>
+  <center>
+    <b>ID Photo for WANGXIN</b>
+  </center>
+
+  <center>
+    <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=QTYgLyY5KC8eOTQ7KS40cHh4dQEnLjksICgtbyIuLA" style="text-decoration:none;">Email to QQ Mailbox</a>
+  </center>
+</div>
+
+
 
 Basic Information
 -----------------
