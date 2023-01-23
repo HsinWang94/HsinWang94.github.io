@@ -1,3 +1,6 @@
+<head>
+  <title>About-WANGXIN</title>
+</head>
 Basic Information
 -----------------
 
