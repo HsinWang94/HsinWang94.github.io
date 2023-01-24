@@ -1,14 +1,8 @@
 
-<<<<<<< HEAD
-<center>
-  <img src= MediaPIC/IDpicture.jpg height=131.2 width=87.6 />
-</center>
-=======
-
+<!-- 
 <div align="center">
-  <img src= “MediaPIC\IDpicture.jpg” height=131.2 width=87.6 />
+  <img src= MediaPIC\IDpicture.jpg height=131.2 width=87.6 />
 </div>
->>>>>>> 29b2a1bc52348f42e8f2627623f156077eb5bc04
 
 <center>
   <b>ID Photo for WANGXIN</b>
@@ -16,19 +10,27 @@
 
 <center>
   <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=QTYgLyY5KC8eOTQ7KS40cHh4dQEnLjksICgtbyIuLA" style="text-decoration:none;">Email to QQ Mailbox</a>
-</center>
+</center> 
+-->
 
+# This is a RESUME for WANGXIN
 
+<!-- ![ID_Picture](/MediaPIC/IDpicture.jpg) -->
 
+Backup in My **[NotionPage](https://wangxin94xz.notion.site)**
+
+Copyright © 2023 **[WANGXIN](https://github.com/HsinWang94)**
+
+Written in [Markdown](https://markdown.com.cn) and developing with [VS Code](https://code.visualstudio.com/)
 
 Basic Information
 -----------------
 
 * Name : **WangXIn**
-* Birth Date : *October 18th,1994*
+* Birth Date : *October-18th,1994*
 * Height ：*172cm*
 * Weight : *62Kg*
-* Graduate School：*Jiangsu Normal University*
+* Graduate School：*Jiangsu Normal University-(JSNU)*
 * Degree ：**Master in Engineering**
 * MobilePhone：*86-18260712928*
 * Email：*<wangxin94xz@outlook.com>*
@@ -51,7 +53,7 @@ Current Status
 ------------------
 
 * 🔭 I’m currently working in China.
-* 🌱 I’m currently learning MATLAB,C/C++,Julia and FPGA.
+* 🌱 I’m currently learning MATLAB,C/CPP,Julia and FPGA.
 * 👯 I’m looking to collaborate on Earth.
 * 💬 Ask me about Anything I Know.
 * 📫 How to reach me: Email: wangxin94xz@outlook
@@ -88,8 +90,8 @@ Researching Paper
 Education Background
 --------------------
 
-* 2018.9--2021.6 Master (School of Mechatronic Engineering) Jiangsu Normal University
-* 2014.9--2018.6 Bachelor (Mechanical and Electrical Engineering) Jiangsu Normal University Kewen College
+* 2018.9--2021.6 Master,(School of Mechatronic Engineering) Jiangsu Normal University
+* 2014.9--2018.6 Bachelor,(Mechanical and Electrical Engineering) Jiangsu Normal University Kewen College
 
 Working Experience
 --------------
@@ -97,7 +99,7 @@ Working Experience
 * 2020.9--2020.12 School of Mechatronic Engineering-Jiangsu Normal University, Research Assistant, For 4 months
 * 2019.9--2020.6 School of Mechatronic Engineering-Jiangsu Normal University,Chairman-Graduate Students Union, For 12 months
 * 2021.6--2022.3 WeirESCO(Xuzhou) Wearparts, Equipment Engineer, For 9 months
-* 2022.3--2022.6 Suzhou Changheng Communication Technology, Algorithm Engineer, For 3 months
+* 2022.3--2022.6 Suzhou Changheng Communication Technology, Algorithm Engineer, For 4 months
 
 Qualifications
 -------
